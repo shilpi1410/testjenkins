@@ -6,6 +6,6 @@ func main() {
  
 	fmt.Println("Hello, Jenkins & Docker..from Stonetusker!!")
 
-	fmt.Println("Build & Deployment pipeline executed successfully !!")
 
+fmt.Println("Build & Deployment pipeline executed successfully!!")
 }
